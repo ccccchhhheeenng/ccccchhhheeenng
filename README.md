@@ -1,4 +1,4 @@
-## Hi there 👋
+
 [![ccccchhhheeenng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccccchhhheeenng)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
